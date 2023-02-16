@@ -1,0 +1,4 @@
+Forecast and see anomalies at forecasting (Put treshold and check if difference between forcast and observation is bigger than that treshold)
+Prediction
+Clustering
+Time series classification -> PERSON A IS FRAUDER! B IS NOT FRAUDER. Extract features from their data and classify their time series as fraud-or not fraud. Let model learn how to differantiate fraud time series and non fraud time series using supervised learning.
